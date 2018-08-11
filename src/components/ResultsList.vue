@@ -16,16 +16,14 @@ export default {
 
 <style lang="scss" module>
 .results {
-  display: inline-block;
   list-style: none;
   margin: 0;
-  padding: 0 1em 1em;
-  width: 60%;
+  padding: 0 1em 1em 0;
 
   li {
     margin-top: 1em;
     padding: 0.5em;
-    border: 1px solid #ccc;
+    background-color: #f8f8f8;
   }
 }
 </style>
